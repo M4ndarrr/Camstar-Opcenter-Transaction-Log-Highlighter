@@ -18,11 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![GNU License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -30,9 +26,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/M4ndarrr/Camstar-Opcenter-Transaction-Log-Highlighter">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Camstar - Opcenter Transaction Log Highlighter</h3>
 
@@ -77,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I was always confused with the Transaction Logs for the Opcenter and Camstar. Thats why I have created this little plugin to Notepad++. There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+I was always confused with the Transaction Logs for the Opcenter and Camstar. Thats why I have created this little plugin to Notepad++. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,12 +90,10 @@ You need to install Notepad++: https://notepad-plus-plus.org/downloads/
 _Below is an Step by Step instruction for the installation.
 
 1. Open notepad++ -> Language -> Define your language -> Import -> select file from the Folder
-[1-screenshot]
-[2-screenshot]
+[![1][1-screenshot]]
+[![2][2-screenshot]]
 2. Go to setting -> preferences, select autocompletion. Set as below
-[3-screenshot]
-   git clone https://github.com/your_username_/Project-Name.git
-
+[![3][3-screenshot]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,13 +103,13 @@ _Below is an Step by Step instruction for the installation.
 ## Usage
 
 1. Shortcuts:
-[4-screenshot]
+[![4][4-screenshot]]
 
 2. Default short keys:
 	Toggle Bookmark: Ctrl+F2
 	Next Bookmark: F2
 	Prev Bookmark: Shift+F2
-[5-screenshot]
+[![5][5-screenshot]]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
