@@ -18,10 +18,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![GNU License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -30,12 +26,11 @@
   <h3 align="center">Camstar - Opcenter Transaction Log Highlighter</h3>
 
   <p align="center">
-    Plugin-In inside the Notepad++ to highlight and beautifuller your Transaction Log
+    Plugin-In to the Notepad++ to highlight and beautifuller your Transaction Log
     <br />
     <a href="https://github.com/M4ndarrr/Camstar-Opcenter-Transaction-Log-Highlighter/Syntax-Highlighter-Transcation.docx"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/M4ndarrr/Camstar-Opcenter-Transaction-Log-Highlighter">View Demo</a>
     ·
     <a href="https://github.com/M4ndarrr/Camstar-Opcenter-Transaction-Log-Highlighter/issues">Report Bug</a>
     ·
@@ -87,7 +82,7 @@ You need to install Notepad++: https://notepad-plus-plus.org/downloads/
 
 ### Installation
 
-_Below is an Step by Step instruction for the installation.
+_Below is a Step by Step instruction for the installation.
 
 1. Open notepad++ -> Language -> Define your language -> Import -> select file from the Folder
 ![1][1-screenshot]
@@ -103,6 +98,7 @@ _Below is an Step by Step instruction for the installation.
 ## Usage
 
 1. Shortcuts:
+
 ![4][4-screenshot]
 
 2. Default short keys:
@@ -127,7 +123,7 @@ Distributed under the GNU License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jan Tichy - [linkedin-shield]([linkedin-url]) - tichyjan92 @ gmail.com
+Jan Tichy - [![LinkedIn][linkedin-shield]][linkedin-url] - tichyjan92 @ gmail.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
