@@ -90,10 +90,10 @@ You need to install Notepad++: https://notepad-plus-plus.org/downloads/
 _Below is an Step by Step instruction for the installation.
 
 1. Open notepad++ -> Language -> Define your language -> Import -> select file from the Folder
-[![1]][1-screenshot]
-[![2]][2-screenshot]
+![1][1-screenshot]
+![2][2-screenshot]
 2. Go to setting -> preferences, select autocompletion. Set as below
-[![3]][3-screenshot]
+![3][3-screenshot]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,13 +103,13 @@ _Below is an Step by Step instruction for the installation.
 ## Usage
 
 1. Shortcuts:
-[![4]][4-screenshot]
+![4][4-screenshot]
 
 2. Default short keys:
 	Toggle Bookmark: Ctrl+F2
 	Next Bookmark: F2
 	Prev Bookmark: Shift+F2
-[![5]][5-screenshot]
+![5][5-screenshot]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
