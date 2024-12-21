@@ -87,16 +87,6 @@ Email: jan.tichy@jnt-digital.net
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
----
-
-## Notes
-
-- **Improved readability**: Grammatical fixes and enhanced structure.
-- **Clear sections**: Improved navigation using a polished table of contents.
-- **Better instructions**: Clear and concise installation steps.
-
-Let me know if you'd like further adjustments!
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
