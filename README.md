@@ -1,132 +1,101 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/M4ndarrr/Camstar-Opcenter-Transaction-Log-Highlighter/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+# Camstar - Opcenter Transaction Log Highlighter
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
-
-  <h3 align="center">Camstar - Opcenter Transaction Log Highlighter</h3>
-
-  <p align="center">
-    Plugin-In to the Notepad++ to highlight and beautifuller your Transaction Log
+  <h3>Camstar - Opcenter Transaction Log Highlighter</h3>
+  <p>
+    A Notepad++ plugin to highlight and enhance the readability of your Transaction Logs for Opcenter and Camstar.
     <br />
-    <a href="https://github.com/M4ndarrr/Camstar-Opcenter-Transaction-Log-Highlighter/Syntax-Highlighter-Transcation.docx"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/M4ndarrr/Camstar-Opcenter-Transaction-Log-Highlighter/Syntax-Highlighter-Transcation.docx"><strong>Explore the Documentation »</strong></a>
     <br />
     <br />
+    <a href="https://github.com/M4ndarrr/Camstar-Opcenter-Transaction-Log-Highlighter/issues">Report a Bug</a>
     ·
-    <a href="https://github.com/M4ndarrr/Camstar-Opcenter-Transaction-Log-Highlighter/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/M4ndarrr/Camstar-Opcenter-Transaction-Log-Highlighter/issues">Request Feature</a>
+    <a href="https://github.com/M4ndarrr/Camstar-Opcenter-Transaction-Log-Highlighter/issues">Request a Feature</a>
   </p>
 </div>
 
+---
 
+## Table of Contents
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+1. [About the Project](#about-the-project)
+2. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+3. [Usage](#usage)
+4. [License](#license)
+5. [Contact](#contact)
 
+---
 
+## About the Project
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+Working with Transaction Logs in Opcenter and Camstar can often be confusing. To address this, I created a simple plugin for Notepad++ to highlight and beautify these logs, making them easier to navigate and understand.
 
-I was always confused with the Transaction Logs for the Opcenter and Camstar. Thats why I have created this little plugin to Notepad++. 
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
 
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
-
-It is really simple to install. Follow these steps.
 
 ### Prerequisites
 
-You need to install Notepad++: https://notepad-plus-plus.org/downloads/
+You need to have [Notepad++](https://notepad-plus-plus.org/downloads/) installed.
 
 ### Installation
 
-_Below is a Step by Step instruction for the installation.
+Follow these steps for installation:
 
-1. Open notepad++ -> Language -> Define your language -> Import -> select file from the Folder
-![1][1-screenshot]
-![2][2-screenshot]
-2. Go to setting -> preferences, select autocompletion. Set as below
-![3][3-screenshot]
+1. Open Notepad++.
+2. Navigate to `Language` > `Define Your Language` > `Import`, then select the file provided in the repository.
+   ![Step 1 Screenshot][1-screenshot]  
+   ![Step 2 Screenshot][2-screenshot]
+3. Go to `Settings` > `Preferences` > `Auto-completion` and configure as shown below:
+   ![Step 3 Screenshot][3-screenshot]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
+---
 
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 1. Shortcuts:
+   ![Shortcut Screenshot][4-screenshot]
+2. Default Short Keys:
+   - **Toggle Bookmark**: `Ctrl+F2`
+   - **Next Bookmark**: `F2`
+   - **Previous Bookmark**: `Shift+F2`
+   ![Short Keys Screenshot][5-screenshot]
 
-![4][4-screenshot]
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
-2. Default short keys:
-	Toggle Bookmark: Ctrl+F2
-	Next Bookmark: F2
-	Prev Bookmark: Shift+F2
-![5][5-screenshot]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
 
-
-
-
-<!-- LICENSE -->
 ## License
 
-Distributed under the GNU License. See `LICENSE.txt` for more information.
+This project is distributed under the GNU License. See the `LICENSE.txt` file for more details.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
+---
 
-
-<!-- CONTACT -->
 ## Contact
 
-Jan Tichy - [![LinkedIn][linkedin-shield]][linkedin-url] - tichyjan92 @ gmail.com
+Jan Tichy  
+[![LinkedIn][linkedin-shield]][linkedin-url]  
+Email: jan.tichy@jnt-digital.net
 
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
+
+## Notes
+
+- **Improved readability**: Grammatical fixes and enhanced structure.
+- **Clear sections**: Improved navigation using a polished table of contents.
+- **Better instructions**: Clear and concise installation steps.
+
+Let me know if you'd like further adjustments!
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -142,7 +111,7 @@ Jan Tichy - [![LinkedIn][linkedin-shield]][linkedin-url] - tichyjan92 @ gmail.co
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/M4ndarrr/Camstar-Opcenter-Transaction-Log-Highlighter/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/jantichy92/
+[linkedin-url]: https://www.linkedin.com/in/jantichy-jntdigital/
 [1-screenshot]: images/1.png
 [2-screenshot]: images/2.png
 [3-screenshot]: images/3.png
